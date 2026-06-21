@@ -8,6 +8,7 @@ Full map: [docs-map](<docs-map.md>)
 
 ### Folders
 
+- [Front End Development Libraries](<./Front-end-Development-Libraries/README.md>)
 - [Javascript Certification](<./JavaScript-Certification/README.md>)
 - [Responsive Web Design](<./Responsive-Web-Design/README.md>)
 
